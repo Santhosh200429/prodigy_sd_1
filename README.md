@@ -1,4 +1,4 @@
-📘 Temperature Converter – All-in-One (Java)
+📘 Temperature Converter – (Java)
 
 A powerful, all-in-one Java application that converts temperatures between Celsius, Fahrenheit, and Kelvin.
 This project combines:
@@ -64,7 +64,7 @@ try-catch (InputMismatchException)
 
 📂 Project Structure
 
-AllInOneTemperatureConverter.java
+TemperatureConverter.java
 README.md  ← (this file)
 
 Inside the Java file:
@@ -81,7 +81,7 @@ Step 1: Save the file
 
 Create a file named:
 
-AllInOneTemperatureConverter.java
+TemperatureConverter.java
 
 Paste the full Java code into it.
 
@@ -89,11 +89,11 @@ Step 2: Compile
 
 Open terminal or command prompt:
 
-javac AllInOneTemperatureConverter.java
+javac TemperatureConverter.java
 
 Step 3: Run
 
-java AllInOneTemperatureConverter
+java TemperatureConverter
 
 
 ---

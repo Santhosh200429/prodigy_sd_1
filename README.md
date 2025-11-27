@@ -149,7 +149,6 @@ This project is free to use for students, developers, and learning purposes.
 👨‍💻 Author
 
 Developed with ❤️ using Java.
-If you need GUI version, Android app version, or web version — just ask!
 
 
 ---
